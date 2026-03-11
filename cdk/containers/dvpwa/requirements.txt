@@ -21,3 +21,13 @@ borb==2.0.29
 dictlib==1.1.5
 django3-viewflow==2.0.2
 python-dateutil==2.9.0
+ultralytics-thop==2.0.18
+opfunu==1.0.4
+python-gitlab==2.0.0
+python-crontab==2.3.6
+pycurl==7.43.0.2
+gprof2dot==2016.10.13
+astroid==3.2.4
+pyrasite==2.0
+semgrep==1.53.0
+dictlib==1.1.5
