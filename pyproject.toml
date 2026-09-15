@@ -6,7 +6,7 @@ authors = ["Avishay Bar <avishay.il@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 # Automation
